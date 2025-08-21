@@ -42,7 +42,7 @@ smart_face_recognition_attendance_marking_system/
 │   └── utils.py                  # (Optional) Helper functions
 ├── README.md                     # Project documentation
 └── requirements.txt              # Dependencies list
-
+```
 ---
 
 ## ⚡ How It Works  
